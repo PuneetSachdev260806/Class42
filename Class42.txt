@@ -1,0 +1,36 @@
+CLASS 42
+ELEMENTS OF GAME DESIGN
+
+1. Characters
+Types of characters - playing and non-playing
+Playing characters- PC, Non playing characters- NPC
+PC - Pacman
+NPC - Ghosts
+
+2. Goal
+In Pacman, goal is to kill eating all the dots and be safe!
+
+3. Rules
+In Pacman, once all three lifes get over, game is over. If you eat a dot your points will increase and 
+the dots will disappear
+Rules of the game should be balanced, not too easy not too difficult, not biased
+
+4. Adaptive
+As the game progresses the difficulty level should increase{harder to use the dots, speed of the ghosts 
+increases} 
+
+5. Elements of chance/ skill 
+like in Pacman, ghost have chance, while pacman has skill
+
+6. Feedback
+By displaying scores with sound, text as in WELL PLAYED,etc
+Text for not good as in BETTER LUCK NEXT TIME, TRY BETTER,etc
+loosimg the lives or points with sad sounds
+
+7. Story
+every game should have a story
+stories can be direct or indirect
+it can displayed as audio message or told 
+
+  
+
